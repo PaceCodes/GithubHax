@@ -1,4 +1,4 @@
-# contribHack
+# GitHub HAX
 
 ## How to use it?
 
