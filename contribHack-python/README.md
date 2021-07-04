@@ -1,6 +1,6 @@
 # GitHub HAX
 
-## How to use it?
+## How to use it? GO learn CODING!
 
 * Download/Clone the repo to your computer.
 
@@ -35,7 +35,3 @@ Since no pattern file is provided it will fill randomly.
 ## Make a custom pattern
 * Your pattern file is like a grid with dimensions of 7\*X. (7 rows and X>0 columns)
 * Each cell in the grid represents number of commits to be made on a day.
-* Look at patterns/hireme for reference.
-
-## Future Additions:
-* A GUI tool which helps in creating customized patterns.
