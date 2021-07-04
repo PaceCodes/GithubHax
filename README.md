@@ -1,6 +1,6 @@
 # GitHub HAX (js)
 
-First you do it go learn JavaScript or coding you suck!.
+Before you do it go learn JavaScript or coding!.
 
 **Most Important thing, GO LEARN CODING.**
 
