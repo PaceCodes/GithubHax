@@ -1,0 +1,23 @@
+{
+  "name": "github-contribution-hack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Satyam Goyal",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SatYu26/Github-Contribution-Hack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SatYu26/Github-Contribution-Hack/issues"
+  },
+  "homepage": "https://github.com/SatYu26/Github-Contribution-Hack#readme",
+  "description": "This Repo contains the Program for the Hack of GitHub Contribution Graph.",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "simple-git": "^2.35.2"
+  }
+}
