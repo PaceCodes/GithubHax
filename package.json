@@ -1,21 +1,21 @@
 {
-  "name": "github-contribution-hack",
+  "name": "githubhax",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Satyam Goyal",
+  "author": "PaceSomesh",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SatYu26/Github-Contribution-Hack.git"
+    "url": "git+https://github.com/PaceSomesh/GithubHax.git"
   },
   "bugs": {
-    "url": "https://github.com/SatYu26/Github-Contribution-Hack/issues"
+    "url": "https://github.com/PaceSomesh/GithubHax/issues"
   },
-  "homepage": "https://github.com/SatYu26/Github-Contribution-Hack#readme",
-  "description": "This Repo contains the Program for the Hack of GitHub Contribution Graph.",
+  "homepage": "https://github.com/PaceSomesh/GithubHax#readme",
+  "description": "Hack your github with this.",
   "dependencies": {
     "jsonfile": "^6.1.0",
     "simple-git": "^2.35.2"
