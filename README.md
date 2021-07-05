@@ -6,7 +6,8 @@ Before you do it go learn JavaScript or coding!.
 
 ## How to use it?
 
-- Download/Clone the repo to your computer.
+- Fork this repository in to your account you want hack to work on. 
+- Download/Clone the forked repo to your computer.
 - Copy the files from the folder into your desired repository.
 - Initialize the Repo:
 
@@ -39,5 +40,5 @@ npm i simple-git
 ```
 
 ## Stuff more to do 
-**Start this repo / follow me or bad.**
-EZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+**Star this repo / follow me or bad.**
+Ez, thank me later
