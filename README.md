@@ -1,9 +1,5 @@
 # GitHub HAX (js)
 
-Before you do it go learn JavaScript or coding!.
-
-**Most Important thing, GO LEARN CODING.**
-
 ## How to use it?
 
 - Fork this repository in to your account you want hack to work on. 
@@ -38,7 +34,3 @@ node index.js
 npm i jsonfile
 npm i simple-git
 ```
-
-## Stuff more to do 
-**Star this repo / follow me or bad.**
-Ez, thank me later
