@@ -5,17 +5,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "PaceSomesh",
+  "author": "Pace",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PaceSomesh/GithubHax.git"
+    "url": "git+https://github.com/PaceCodes/GithubHax.git"
   },
   "bugs": {
-    "url": "https://github.com/PaceSomesh/GithubHax/issues"
+    "url": "https://github.com/PaceCodes/GithubHax/issues"
   },
-  "homepage": "https://github.com/PaceSomesh/GithubHax#readme",
-  "description": "Hack your github with this.",
+  "homepage": "https://github.com/PaceCodes/GithubHax#readme",
+  "description": "Hack your github contribution tab with this.",
   "dependencies": {
     "jsonfile": "^6.1.0",
     "simple-git": "^2.35.2"
